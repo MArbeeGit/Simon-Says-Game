@@ -1,0 +1,51 @@
+/* Set the background color of the body */
+body{
+    background-color:#4b6e94;
+}
+
+/* Center align the main content */
+.main{
+    text-align: center;
+}
+
+/* Style for buttons */
+button{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: solid 10px;
+    border-radius: 30px;
+}
+
+/* Background colors for buttons */
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color:yellow;
+}
+#green{
+    background-color: green;
+}
+
+/* Style for the heading */
+h1{
+    color:#000000;
+    font-family:'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+
+/* Style for pressed buttons */
+.pressed{
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+/* Style for game over state */
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}
