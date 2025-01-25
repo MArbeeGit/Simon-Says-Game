@@ -1,6 +1,6 @@
-# Simon Game
+# Simon Says Game
 
-This is a simple implementation of the Simon game using HTML, CSS, and JavaScript.
+This is a simple implementation of the Simon Says game using HTML, CSS, and JavaScript.
 
 ## How to Play
 
